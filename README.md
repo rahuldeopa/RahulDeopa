@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔥 What I Do<br>💻 Software Development – Building full-stack web applications<br>⚡ AI & ML Projects – Integrating AI with creative and business solutions<br>🛡️ Cybersecurity – Experience in fraud detection and financial security<br>☁ Cloud & Databases – Working with MySQL, cloud platforms, and real-time systems<br>🏆 Projects<br>Real-Time Bidding System – A cloud-based auction platform with real-time notifications<br>📜 Certifications<br>✅ J.P. Morgan Cybersecurity Virtual Experience Program<br>✅ Various AI & ML-related courses<br>📫 Connect with Me
+🔥 What I Do<br>💻 Software Development – Building full-stack web applications<br>⚡ AI & ML Projects – Integrating AI with creative and business solutions<br>🛡️ Cybersecurity – Experience in fraud detection and financial security<br>☁ Cloud & Databases – Working with MySQL, cloud platforms, and real-time systems<br>📜 Certifications<br>✅ J.P. Morgan Cybersecurity Virtual Experience Program<br>✅ Various AI & ML-related courses<br>📫 Connect with Me
 
 
 ## 🌐 Socials:
